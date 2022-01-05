@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **krzysztof.krol@royalcode.eu**
 
-- ⚡ Fun fact **I wanted to be a priest one time :P**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/neptun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="neptun" height="30" width="40" /></a>
